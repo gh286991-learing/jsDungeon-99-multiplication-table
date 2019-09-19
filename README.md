@@ -14,12 +14,4 @@
 
 #### 下載資源
 
-1. [UI 線上設計稿](https://xd.adobe.com/spec/256981fc-ef65-4d9b-773c-45d8ef0353c6-5358/screen/50fba855-bde7-4771-b73c-3fd839418cf0/multiplication-chart/)top: 80px;
-left: 421px;
-width: 14px;
-height: 28px;
-text-align: left;
-font: Regular 24px/24px Helvetica Neue;
-letter-spacing: 0;
-color: #2EB738;
-opacity: 1;
+1. [UI 線上設計稿](https://xd.adobe.com/spec/256981fc-ef65-4d9b-773c-45d8ef0353c6-5358/screen/50fba855-bde7-4771-b73c-3fd839418cf0/multiplication-chart/)

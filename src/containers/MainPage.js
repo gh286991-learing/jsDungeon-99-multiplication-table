@@ -16,14 +16,13 @@ class MainPageContainer extends React.Component {
       }
     }
 
-    console.log(table);
+    return table;
   }
 
   render() {
     return (
       <div>
-        <MainPage />
-        {this.mulitiplication()}
+        <MainPage table={this.mulitiplication()} />
       </div>
     );
   }
