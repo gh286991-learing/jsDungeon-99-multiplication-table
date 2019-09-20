@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/jsDungeon-99-multiplication-table/precache-manifest.124aa95b87bb74864b6dd7295955aa8c.js"
+  "/jsDungeon-99-multiplication-table/precache-manifest.b8190b2ada4cde84aaeaff0178e3cb14.js"
 );
 
 self.addEventListener('message', (event) => {

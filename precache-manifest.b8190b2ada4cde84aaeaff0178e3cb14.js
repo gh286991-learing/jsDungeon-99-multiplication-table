@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6188898059c9f2f450c77ef66d3fbfdd",
+    "revision": "713f7d9cd0bb3f069f609ef50d16d61b",
     "url": "/jsDungeon-99-multiplication-table/index.html"
   },
   {
