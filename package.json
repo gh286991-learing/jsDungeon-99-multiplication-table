@@ -1,6 +1,8 @@
 {
-  "name": "counter-with-test-unit",
+  "name": "99-mulitiplication-table",
   "version": "1.0.0",
+  "private": true,
+  "homepage": "https://gh286991-learing.github.io/jsDungeon-99-multiplication-table",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
@@ -10,6 +12,7 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
     "expect": "^24.9.0",
+    "gh-pages": "^2.1.1",
     "jest-mock": "24.9.0",
     "jsdom": "^15.1.1",
     "mocha": "^6.2.0",
@@ -39,7 +42,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
