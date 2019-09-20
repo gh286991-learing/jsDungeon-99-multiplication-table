@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/99-mulitiplication-table/static/css/main.8ea80bf3.chunk.css",
-    "main.js": "/99-mulitiplication-table/static/js/main.2193ec6f.chunk.js",
-    "main.js.map": "/99-mulitiplication-table/static/js/main.2193ec6f.chunk.js.map",
-    "runtime~main.js": "/99-mulitiplication-table/static/js/runtime~main.bf8ebbc1.js",
-    "runtime~main.js.map": "/99-mulitiplication-table/static/js/runtime~main.bf8ebbc1.js.map",
-    "static/js/2.bbd3c66e.chunk.js": "/99-mulitiplication-table/static/js/2.bbd3c66e.chunk.js",
-    "static/js/2.bbd3c66e.chunk.js.map": "/99-mulitiplication-table/static/js/2.bbd3c66e.chunk.js.map",
-    "index.html": "/99-mulitiplication-table/index.html",
-    "precache-manifest.45e84f8f7d68cbcef2484cbfd653f8ec.js": "/99-mulitiplication-table/precache-manifest.45e84f8f7d68cbcef2484cbfd653f8ec.js",
-    "service-worker.js": "/99-mulitiplication-table/service-worker.js",
-    "static/css/main.8ea80bf3.chunk.css.map": "/99-mulitiplication-table/static/css/main.8ea80bf3.chunk.css.map"
+    "main.css": "/jsDungeon-99-multiplication-table/static/css/main.8ea80bf3.chunk.css",
+    "main.js": "/jsDungeon-99-multiplication-table/static/js/main.2193ec6f.chunk.js",
+    "main.js.map": "/jsDungeon-99-multiplication-table/static/js/main.2193ec6f.chunk.js.map",
+    "runtime~main.js": "/jsDungeon-99-multiplication-table/static/js/runtime~main.2bbf1222.js",
+    "runtime~main.js.map": "/jsDungeon-99-multiplication-table/static/js/runtime~main.2bbf1222.js.map",
+    "static/js/2.bbd3c66e.chunk.js": "/jsDungeon-99-multiplication-table/static/js/2.bbd3c66e.chunk.js",
+    "static/js/2.bbd3c66e.chunk.js.map": "/jsDungeon-99-multiplication-table/static/js/2.bbd3c66e.chunk.js.map",
+    "index.html": "/jsDungeon-99-multiplication-table/index.html",
+    "precache-manifest.124aa95b87bb74864b6dd7295955aa8c.js": "/jsDungeon-99-multiplication-table/precache-manifest.124aa95b87bb74864b6dd7295955aa8c.js",
+    "service-worker.js": "/jsDungeon-99-multiplication-table/service-worker.js",
+    "static/css/main.8ea80bf3.chunk.css.map": "/jsDungeon-99-multiplication-table/static/css/main.8ea80bf3.chunk.css.map"
   }
 }
