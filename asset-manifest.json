@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jsDungeon-99-multiplication-table/static/css/main.8ea80bf3.chunk.css",
-    "main.js": "/jsDungeon-99-multiplication-table/static/js/main.2193ec6f.chunk.js",
-    "main.js.map": "/jsDungeon-99-multiplication-table/static/js/main.2193ec6f.chunk.js.map",
+    "main.css": "/jsDungeon-99-multiplication-table/static/css/main.fbe2f655.chunk.css",
+    "main.js": "/jsDungeon-99-multiplication-table/static/js/main.494ca629.chunk.js",
+    "main.js.map": "/jsDungeon-99-multiplication-table/static/js/main.494ca629.chunk.js.map",
     "runtime~main.js": "/jsDungeon-99-multiplication-table/static/js/runtime~main.2bbf1222.js",
     "runtime~main.js.map": "/jsDungeon-99-multiplication-table/static/js/runtime~main.2bbf1222.js.map",
-    "static/js/2.bbd3c66e.chunk.js": "/jsDungeon-99-multiplication-table/static/js/2.bbd3c66e.chunk.js",
-    "static/js/2.bbd3c66e.chunk.js.map": "/jsDungeon-99-multiplication-table/static/js/2.bbd3c66e.chunk.js.map",
+    "static/js/2.9753fc9f.chunk.js": "/jsDungeon-99-multiplication-table/static/js/2.9753fc9f.chunk.js",
+    "static/js/2.9753fc9f.chunk.js.map": "/jsDungeon-99-multiplication-table/static/js/2.9753fc9f.chunk.js.map",
     "index.html": "/jsDungeon-99-multiplication-table/index.html",
-    "precache-manifest.b8190b2ada4cde84aaeaff0178e3cb14.js": "/jsDungeon-99-multiplication-table/precache-manifest.b8190b2ada4cde84aaeaff0178e3cb14.js",
+    "precache-manifest.a9678d21de2b16248859bc5b220479e0.js": "/jsDungeon-99-multiplication-table/precache-manifest.a9678d21de2b16248859bc5b220479e0.js",
     "service-worker.js": "/jsDungeon-99-multiplication-table/service-worker.js",
-    "static/css/main.8ea80bf3.chunk.css.map": "/jsDungeon-99-multiplication-table/static/css/main.8ea80bf3.chunk.css.map"
+    "static/css/main.fbe2f655.chunk.css.map": "/jsDungeon-99-multiplication-table/static/css/main.fbe2f655.chunk.css.map"
   }
 }
