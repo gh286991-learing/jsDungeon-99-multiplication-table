@@ -5,6 +5,7 @@ import * as ActionCreators from '../actions';
 
 
 class MainPageContainer extends React.Component {
+  
   mulitiplication = () => {
     const n = 9;
     const m = 9;
